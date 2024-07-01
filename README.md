@@ -4,9 +4,12 @@
 
   This project utilizes the FLAN-T5 model for dialogue summarization and inference. It aims to automate the process of summarizing conversations and generating concise summaries based on given dialogue inputs.
 ## <span style="color:#00ADEF;">Features</span>
-  ### <span style="color:#00ADEF;">Dialogue Summarization:</span> Automatically generate summaries of conversations using the FLAN-T5 model.
-  ### <span style="color:#00ADEF;">Inference Modes:</span> Includes zero-shot, one-shot, and few-shot inference modes for different summarization tasks.
-  ### <span style="color:#00ADEF;">Dataset Integration:</span> Utilizes the "knkarthick/dialogsum" dataset for training and testing dialogue summarization capabilities
+  ### <span style="color:#00ADEF;">Dialogue Summarization:</span>
+ Automatically generate summaries of conversations using the FLAN-T5 model.
+  ### <span style="color:#00ADEF;">Inference Modes:</span>
+ Includes zero-shot, one-shot, and few-shot inference modes for different summarization tasks.
+  ### <span style="color:#00ADEF;">Dataset Integration:</span>
+ Utilizes the "knkarthick/dialogsum" dataset for training and testing dialogue summarization capabilities
 
 Dataset Description
 The "knkarthick/dialogsum" dataset consists of 14460 instances of dialogues paired with human-generated summaries. Each dialogue instance is structured as a conversation typically found in diverse contexts such as customer service interactions, meetings, and informal discussions. This dataset is formatted in a way that supports training and evaluating dialogue summarization models, aiming to improve automated text summarization capabilities through machine learning approaches. With its ample sample size and variety of conversational scenarios, it serves as a robust resource for advancing natural language processing tasks related to dialogue understanding and summarization.

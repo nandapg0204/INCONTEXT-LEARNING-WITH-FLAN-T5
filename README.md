@@ -1,4 +1,4 @@
-INCONTEXT-LEARNING-WITH-FLAN-T5
+***INCONTEXT-LEARNING-WITH-FLAN-T5***
 
 Overview
 This project utilizes the FLAN-T5 model for dialogue summarization and inference. It aims to automate the process of summarizing conversations and generating concise summaries based on given dialogue inputs.
